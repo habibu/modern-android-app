@@ -1,2 +1,2 @@
-# modern-android-app
-A Hands On projects using Flutter Apprentice book
+# Sample android apps
+Developed by: A Hand-on practice  projects using Flutter Apprentice book
